@@ -123,7 +123,7 @@ class _MyHomePageState extends State<MyHomePage>
                       highlightColor: Colors.yellowAccent,
                       period: const Duration(milliseconds: 1000),
                       child: Text(
-                        "✨ Sab piyo Pepsi — Janhvi Singh Pataka and Sexy✨",
+                        "✨ Sab piyo Pepsi — Meri Biwi Janhvi Singh Pataka and Sexy✨",
                         textAlign: TextAlign.center,
                         style: GoogleFonts.pacifico(
                           fontSize: 36,
